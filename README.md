@@ -1,3 +1,4 @@
+![gym](https://github.com/KonradHD/KonradHD.github.io/blob/main/Gym.png)
 # Siłownia jako Klucz do Zdrowia i Energii
 ## Wprowadzenie:
 Czy zastanawiałeś się kiedyś, jak ważna jest regularna aktywność fizyczna dla Twojego zdrowia i ogólnej kondycji? Siłownia to nie tylko miejsce, gdzie ludzie kształtują swoje ciała, ale także centrum transformacji, gdzie zdobywają energię i poprawiają jakość swojego życia. Dziś przyjrzymy się, dlaczego warto dać szansę siłowni i jakie korzyści możemy z niej czerpać.
