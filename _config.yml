@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+plugins:
+- jekyll-remote-theme
+title: Kevin's homepage
+description: Moje CV
